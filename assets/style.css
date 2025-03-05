@@ -11,12 +11,7 @@
     --marginMobile: 20px;
 }
 
-@font-face {
-    font-family: 'Switzer';
-    src: url('assets/font/Switzer-Regular.otf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
+@import url('https://fonts.cdnfonts.com/css/switzer');
 
 /*Geral*/
 * {
